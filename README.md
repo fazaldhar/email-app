@@ -1,2 +1,2 @@
 # email-app
-An email app built on react and redux
+An email app built using react and redux
